@@ -3,21 +3,24 @@ This project is an Instagram clone, a web application that mimics the core funct
 The purpose of this project is to practice full-stack development skills.
 
 <h1>Features</h1>
-1. User Authentication: Register, log in, and manage user profiles.
-2. Post Management: Upload, edit, and delete photos and videos.
-3. Social Interactions: Like and comment on posts.
-4. User Connections: Follow and unfollow other users.
-5. Real-time Updates: See live updates on likes, comments, and new posts.
-6. Responsive Design: Optimized for both desktop and mobile devices.
+<ul>
+  <li>User Authentication: Register, log in, and manage user profiles.</li>
+  <li>Post Management: Upload, edit, and delete photos and videos.</li>
+  <li>Social Interactions: Like and comment on posts.</li>
+  <li>User Connections: Follow and unfollow other users.</li>
+  <li>Real-time Updates: See live updates on likes, comments, and new posts.</li>
+  <li>Responsive Design: Optimized for both desktop and mobile devices</li>
+</ul>
 
 <h1>Demo</h1>
 You can see a live demo of the Instagram clone here:
 
 <h1>Technologies Used</h1>
-  HTML5
-  CSS3
-  chakra ui
-  JavaScript 
-  React.js 
-  Redux
-
+<ul>
+  <li>HTML5</li>
+  <li>CSS</li>
+  <li>chakra ui</li>
+  <li>JavaScript</li>
+  <li>React.js </li>
+  <li>Zustand</li>
+</ul>
