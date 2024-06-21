@@ -13,7 +13,7 @@ The purpose of this project is to practice full-stack development skills.
 </ul>
 
 <h1>Demo</h1>
-You can see a live demo of the Instagram clone here: <src>https://msocialmedia-app.vercel.app/auth</src>
+You can see a live demo of the Instagram clone here: <src>https://my-socialmedia.vercel.app/auth</src>
 
 <h1>Technologies Used</h1>
 <ul>
